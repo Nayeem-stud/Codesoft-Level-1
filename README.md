@@ -68,7 +68,7 @@ Completing Level 1 of the web development internship at Codesoft has provided me
 
 ## Repository Link
 
-[GitHub Repository](https://github.com/yourusername/your-repo)
+[GitHub Repository](https://github.com/Nayeem-stud/Codesoft-Level-1.git)
 
 
 
@@ -76,10 +76,10 @@ Completing Level 1 of the web development internship at Codesoft has provided me
 
 Feel free to reach out if you have any questions or want to discuss web development further:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: [your-email@example.com](mailto:shaikabdul3133@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shaikabdulnayeem)
 
 ---
 
-Replace placeholders like `yourusername`, `your-repo`, `image1_link`, `image2_link`, and `image3_link` with your actual GitHub username, repository name, and image URLs respectively. This template provides a structured overview of your internship projects, highlighting key tasks, objectives, and outcomes.
+#Codesoft Technology #Codesoft Internship #WebDevelopment #HTML #CSS #JavaScript #FrontendDevelopment #LandingPage #PersonalPortfolio #WebDesign #Coding #TechInternship #SoftwareDevelopment #JuniorDeveloper #TechSkills #InternshipExperience #WebDevProjects
+
