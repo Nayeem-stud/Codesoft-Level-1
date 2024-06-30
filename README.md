@@ -1,4 +1,8 @@
 # Codesoft Internship - Web Development Level 1
+## Images
+
+![INTERNSHIP](LEVEL-1/Page1.png)
+
 
 ## Overview
 
@@ -68,11 +72,7 @@ Completing Level 1 of the web development internship at Codesoft has provided me
 
 [GitHub Repository](https://github.com/yourusername/your-repo)
 
-## Images
 
-![Landing Page](image1_link)
-![Personal Portfolio](image2_link)
-![Basic Calculator](image3_link)
 
 ## Contact Information
 
