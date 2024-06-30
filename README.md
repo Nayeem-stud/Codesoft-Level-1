@@ -1,6 +1,4 @@
 # Codesoft Internship - Web Development Level 1
-## Images
-
 ![INTERNSHIP](LEVEL-1/Page1.png)
 
 
